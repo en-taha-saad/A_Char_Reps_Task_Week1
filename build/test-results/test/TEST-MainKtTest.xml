@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainKtTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-17T22:30:43" hostname="FLUTTERDEVTAHA" time="0.037">
+  <properties/>
+  <testcase name="should_ReturnTrue_when_ListValuesHasOnlyAorB()" classname="MainKtTest" time="0.035"/>
+  <testcase name="should_ReturnTrue_when_ListValuesHasAorB()" classname="MainKtTest" time="0.001"/>
+  <testcase name="should_ReturnTrue_when_ListHasOneCharValues()" classname="MainKtTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
